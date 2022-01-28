@@ -1,4 +1,4 @@
 type=item
 items=potion
-nbt.display.Name=ipattern:*Calvados*
+nbt.display.Name=ipattern:*Fox's Charm*
 model=item/foxescharm.json
