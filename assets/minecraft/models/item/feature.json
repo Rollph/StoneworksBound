@@ -1,7 +1,0 @@
-{
-    "parent":"item/generated",
-    "textures":{
-       "layer0":"item/bol_overlay",
-       "layer1":"item/hole_in_the_bol"
-    }
- }

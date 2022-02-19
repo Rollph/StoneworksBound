@@ -1,7 +1,0 @@
-{
-    "parent":"item/generated",
-    "textures":{
-       "layer0":"item/cup_overlay",
-       "layer1":"item/cup_empty"
-    }
- }

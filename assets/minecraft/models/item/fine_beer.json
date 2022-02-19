@@ -1,7 +1,0 @@
-{
-    "parent":"item/generated",
-    "textures":{
-       "layer0":"item/beer_overlay",
-       "layer1":"item/oak_beer_cup"
-    }
- }
