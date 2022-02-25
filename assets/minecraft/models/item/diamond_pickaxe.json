@@ -11,6 +11,6 @@
     { "predicate": {"custom_model_data":4},"model":"amethyst_hammer"},
     { "predicate": {"custom_model_data":5},"model":"onyx_hammer"},
     { "predicate": {"custom_model_data":6},"model":"orax_hammer"},
-    { "predicate":{"custom_model_data":7},"model":"custom/ui/diamond_pickaxe/model_890"}
+    { "predicate":{"custom_model_data":890},"model":"custom/ui/diamond_pickaxe/model_890"}
   ]
 }

@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate":{"custom_model_data":892},"model":"custom/ui/diamond_shovel/model_892"}
+    {"predicate":{"custom_model_data":896},"model":"custom/ui/diamond_hoe/model_896"}
   ]
 }
