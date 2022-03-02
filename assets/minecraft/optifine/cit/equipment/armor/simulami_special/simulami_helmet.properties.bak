@@ -1,4 +1,0 @@
-type=item
-matchItems=diamond_helmet iron_helmet netherite_helmet
-texture=textures/armor/simulami_special/simulami_helmet
-nbt.display.Name=ipattern:*simulami*
