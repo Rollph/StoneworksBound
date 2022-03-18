@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "./iron_sword"
+    },
+    "display": {
+        "fixed": {
+          "rotation": [ 0, -90, -45 ],
+          "translation": [ 0, 0, -5 ],
+          "scale": [ 1.75, 1.75, 1.75 ]
+        }
+    }
+}
