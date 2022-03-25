@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/brown_dye"
+	},
+
+	"overrides": [
+	 { "predicate": {"custom_model_data": 211}, "model": "item/allspice_dried"}
+
+
+	]
+
+
+   }

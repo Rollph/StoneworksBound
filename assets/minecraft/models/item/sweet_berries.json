@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/sweet_berries"
+	},
+
+	"overrides": [
+	 { "predicate": {"custom_model_data": 203}, "model": "item/allspice_fresh"}
+
+
+	]
+
+
+   }

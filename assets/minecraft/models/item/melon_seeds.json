@@ -21,7 +21,8 @@
 	 { "predicate": {"custom_model_data": 114}, "model": "item/fenugreek"},
 	 { "predicate": {"custom_model_data": 115}, "model": "item/paprika"},
 	 { "predicate": {"custom_model_data": 116}, "model": "item/sumac"},
-	 { "predicate": {"custom_model_data": 117}, "model": "item/cinnamon"}
+	 { "predicate": {"custom_model_data": 117}, "model": "item/cinnamon"},
+	 { "predicate": {"custom_model_data": 223}, "model": "item/allspice_dried"}
 
 
 	]
