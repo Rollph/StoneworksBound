@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/dead_bush"
+	},
+
+	"overrides": [
+	 { "predicate": {"custom_model_data": 225}, "model": "item/mace_dried"}
+
+
+	]
+
+
+   }
