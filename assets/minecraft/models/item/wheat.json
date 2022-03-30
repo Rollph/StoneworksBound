@@ -4,6 +4,6 @@
         "layer0": "item/wheat"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 480002 }, "model": "joshmats/morefoods/rice" }
+        { "predicate": { "custom_model_data": 69 }, "model": "item/rice_unmilled" }
     ]
 }
