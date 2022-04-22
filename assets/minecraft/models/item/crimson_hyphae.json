@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	 "layer0": "item/crimson_hyphae"
+	 "layer0": "block/crimson_hyphae"
 	},
 
 	"overrides": [
