@@ -6,6 +6,7 @@
 
 	"overrides": [
 	 { "predicate": {"custom_model_data": 208}, "model": "item/rock_salt"},
+	 { "predicate": {"custom_model_data": 211}, "model": "item/wheat_flour"},
 	 { "predicate": {"custom_model_data": 218}, "model": "item/rice_flour"}
 
 	]
