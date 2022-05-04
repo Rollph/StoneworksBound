@@ -1,8 +1,12 @@
 {
-	"parent": "item/generated",
-	"textures": {
-	 "layer0": "block/crimson_hyphae"
-	},
+	"parent": "block/crimson_hyphae",
+	"display": {
+        "thirdperson": {
+            "rotation": [ 10, -45, 170 ],
+            "translation": [ 0, 1.5, -2.75 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
 
 	"overrides": [
 	 { "predicate": {"custom_model_data": 240}, "model": "item/bloodstone"}
@@ -10,5 +14,4 @@
 
 	]
 
-
-   }
+}
