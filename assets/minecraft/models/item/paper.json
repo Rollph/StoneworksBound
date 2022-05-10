@@ -44,7 +44,8 @@
     {"predicate": {"custom_model_data":37}, "model": "default/grape/stage4"},
     {"predicate": {"custom_model_data":38}, "model": "iron_cog"},
     {"predicate": {"custom_model_data":39}, "model": "gold_cog"},
-    {"predicate": {"custom_model_data":40}, "model": "diamond_cog"}
+    {"predicate": {"custom_model_data":40}, "model": "diamond_cog"},
+    {"predicate": {"custom_model_data":170}, "model": "tortilla_fresh"}
 
   ]
 
