@@ -2,6 +2,6 @@
     "parent":"item/generated",
     "textures":{
        "layer0":"item/dummy/dummy",
-       "layer1":"item/golden_vodka"
+       "layer1":"item/ancient_brews/golden_vodka"
     }
  }
