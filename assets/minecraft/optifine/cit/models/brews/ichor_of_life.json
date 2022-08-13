@@ -2,6 +2,6 @@
     "parent":"item/generated",
     "textures":{
        "layer0":"item/dummy/dummy",
-       "layer1":"item/drugs/kush"
+       "layer1":"item/elixir/ichor_of_life"
     }
  }

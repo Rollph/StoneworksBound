@@ -2,6 +2,6 @@
     "parent":"item/generated",
     "textures":{
        "layer0":"item/dummy/dummy",
-       "layer1":"item/pog_drink"
+       "layer1":"item/elixir/pog_drink"
     }
  }

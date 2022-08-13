@@ -2,6 +2,6 @@
     "parent":"item/generated",
     "textures":{
        "layer0":"item/drinks_overlay",
-       "layer1":"item/acai"
+       "layer1":"item/foodstuff/acai"
     }
  }

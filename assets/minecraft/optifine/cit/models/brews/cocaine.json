@@ -2,6 +2,6 @@
     "parent":"item/generated",
     "textures":{
        "layer0":"item/dummy/dummy",
-       "layer1":"item/cocaine"
+       "layer1":"item/drugs/cocaine"
     }
  }
