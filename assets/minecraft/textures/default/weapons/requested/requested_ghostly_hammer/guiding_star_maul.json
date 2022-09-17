@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./guiding_star_maul",
-		"particle": "./guiding_star_maul"
+		"0": "./optifine/cit/equipment_models/ghostly_special/guiding_star_maul",
+		"particle": "./optifine/cit/equipment_models/ghostly_special/guiding_star_maul"
 	},
 	"elements": [
 		{
@@ -1031,26 +1031,30 @@
 			"translation": [0, 6, 1.25]
 		},
 		"firstperson_righthand": {
-			"rotation": [180, -17.75, 180],
-			"translation": [-2.25, 2, 1.25]
+			"rotation": [-175.57, -17.2, -165.36],
+			"translation": [-4, 2, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-175.57, -17.2, -165.36],
+			"translation": [-4, 2, 1.25]
 		},
 		"ground": {
 			"rotation": [0, 0, -180],
 			"translation": [0, 9.75, 0]
 		},
 		"gui": {
-			"rotation": [43.4, 40.11, -74.01],
-			"translation": [-0.25, -0.25, 0],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [38.37, 44.87, -66.59],
+			"translation": [1.5, 1.5, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
 			"rotation": [90, 45, 90],
-			"translation": [1.25, -13.5, 6.25],
+			"translation": [-4, -18.25, 6.25],
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
 			"rotation": [-90, -180, -90],
-			"translation": [-9.5, 0, -5],
+			"translation": [-14.5, 0, -5],
 			"scale": [2, 2, 2]
 		}
 	},
