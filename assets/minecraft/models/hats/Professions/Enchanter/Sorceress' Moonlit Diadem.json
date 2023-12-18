@@ -1,0 +1,98 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "Sorceress' Moonlit Diadem",
+		"particle": "Sorceress' Crystal Orb Tiara Texture"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 9, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 2.25], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"south": {"uv": [4, 0, 0, 2.25], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"up": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [4, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 16],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [4, 2.25, 8, 4.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"south": {"uv": [4, 2.25, 8, 4.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"up": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [4, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [0, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"east": {"uv": [8, 4.5, 4, 6.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"west": {"uv": [4, 4.5, 8, 6.75], "texture": "#1"},
+				"up": {"uv": [0, 4, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 4], "texture": "#1"}
+			}
+		},
+		{
+			"from": [16, 0, 0],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"east": {"uv": [8, 4.5, 4, 6.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2.25], "texture": "#1"},
+				"west": {"uv": [4, 4.5, 8, 6.75], "texture": "#1"},
+				"up": {"uv": [0, 4, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 4], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.26, 0.26, 0.26]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.26, 0.26, 0.26]
+		},
+		"firstperson_righthand": {
+			"translation": [6.5, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [6.5, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"gui": {
+			"rotation": [-147, -51.5, 180],
+			"translation": [0, 5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 10.25, 0],
+			"scale": [0.82, 0.82, 0.82]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -13],
+			"scale": [1.65, 1.65, 1.65]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
